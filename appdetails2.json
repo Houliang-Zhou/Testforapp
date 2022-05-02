@@ -10,6 +10,7 @@
       {"id":0, "app":"com.android.game"}
     ],
     "free":[
-      {"id":0, "file":1, "city":"Essen2","country":"Germany","image":"us","ip":"219.100.37.209","active":"true","signal":"a"}
+      {"id":0, "file":0, "city":"us","country":"Germany","image":"us","ip":"139.180.147.96","active":"true","signal":"a"},
+      {"id":1, "file":1, "city":"Essen2","country":"Germany","image":"us","ip":"219.100.37.209","active":"true","signal":"a"}
     ]
   }
