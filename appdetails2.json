@@ -10,7 +10,12 @@
       {"id":0, "app":"com.android.game"}
     ],
     "free":[
-      {"id":0, "file":0, "city":"us","country":"Germany","image":"us","ip":"139.180.147.96","active":"true","signal":"a"},
-      {"id":1, "file":1, "city":"Essen2","country":"Germany","image":"us","ip":"219.100.37.209","active":"true","signal":"a"}
+      {"id":0, "file":0, "city":"1","country":"Germany","image":"us","ip":"cao-1.opensvr.net","active":"true","signal":"a"},
+      {"id":1, "file":1, "city":"2","country":"Germany","image":"us","ip":"cao-1.opensvr.net","active":"true","signal":"a"},
+      {"id":2, "file":2, "city":"3","country":"Germany","image":"us","ip":"sg1.spotssh.us","active":"true","signal":"a"},
+      {"id":3, "file":3, "city":"4","country":"Germany","image":"us","ip":"219.100.37.209","active":"true","signal":"a"},
+      {"id":4, "file":4, "city":"5","country":"Germany","image":"us","ip":"219.100.37.22","active":"true","signal":"a"},
+      {"id":5, "file":5, "city":"6","country":"Germany","image":"us","ip":"139.180.147.96","active":"true","signal":"a"},
+      {"id":6, "file":6, "city":"7","country":"Germany","image":"us","ip":"219.100.37.209","active":"true","signal":"a"}
     ]
   }
